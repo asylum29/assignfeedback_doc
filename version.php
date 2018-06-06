@@ -18,12 +18,12 @@
  * doc feedback plugin
  *
  * @package    assignfeedback_doc
- * @copyright  2016 Aleksandr Raetskiy <ksenon3@mail.ru>
+ * @copyright  2018 Aleksandr Raetskiy <ksenon3@mail.ru>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2016101518;
+$plugin->version   = 2018060622;
 $plugin->requires  = 2014051200;
 $plugin->component = 'assignfeedback_doc';

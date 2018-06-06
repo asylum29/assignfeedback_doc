@@ -18,7 +18,7 @@
  * doc feedback plugin
  *
  * @package    assignfeedback_doc
- * @copyright  2016 Aleksandr Raetskiy <ksenon3@mail.ru>
+ * @copyright  2018 Aleksandr Raetskiy <ksenon3@mail.ru>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -35,13 +35,9 @@ $string['default_help'] = 'If set, this feedback method will be enabled by defau
 //$string['script'] = 'Путь к JavaScript'; 
 $string['script'] = 'The path to JavaScript'; 
 //$string['script_help'] = 'Позволяет внедрить заданный JavaScript в каждый отзыв-документ.'; 
-$string['script_help'] = 'It allows to embded the JavaScript in each feedback document.'; 
-//$string['coursename'] = 'Название курса для отзыва'; 
-$string['coursename'] = 'Course name for the feedback'; 
-//$string['coursename_help'] = 'Данное название будет использоваться в автоматически формируемых отзывах-документах.';
-$string['coursename_help'] = 'This name will be used in automatically formed feedback documents';
-//$string['key1'] = 'ОТЗЫВ НА ЗАДАНИЕ «{$a->assignname}»<br />ПО ДИСЦИПЛИНЕ «{$a->coursename}»';
-$string['key1'] = 'FEEDBACK FOR ASSIGNMENT «{$a->assignname}»<br />AT «{$a->coursename}» SUBJECT';
+$string['script_help'] = 'It allows to embded the JavaScript in each feedback document.';
+//$string['key1'] = 'ОТЗЫВ НА ЗАДАНИЕ «{$a->assignname}»';
+$string['key1'] = 'FEEDBACK FOR ASSIGNMENT «{$a->assignname}»';
 //$string['key2'] = 'Ф.И.О. обучающегося';
 $string['key2'] = 'Student';
 //$string['key3'] = 'Группа';

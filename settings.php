@@ -18,7 +18,7 @@
  * doc feedback plugin
  *
  * @package    assignfeedback_doc
- * @copyright  2016 Aleksandr Raetskiy <ksenon3@mail.ru>
+ * @copyright  2018 Aleksandr Raetskiy <ksenon3@mail.ru>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
